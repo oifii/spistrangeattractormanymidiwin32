@@ -1,0 +1,31 @@
+MIDI output devices:
+0: MMSystem, Microsoft MIDI Mapper
+27: MMSystem, Microsoft GS Wavetable Synth
+28: MMSystem, Out To MIDI Yoke:  1
+29: MMSystem, Out To MIDI Yoke:  2
+30: MMSystem, Out To MIDI Yoke:  3
+31: MMSystem, Out To MIDI Yoke:  4
+32: MMSystem, Out To MIDI Yoke:  5
+33: MMSystem, Out To MIDI Yoke:  6
+34: MMSystem, Out To MIDI Yoke:  7
+35: MMSystem, Out To MIDI Yoke:  8
+36: MMSystem, Q49
+37: MMSystem, loopMIDI Port 1
+38: MMSystem, loopMIDI Port 2
+39: MMSystem, loopMIDI Port 3
+40: MMSystem, loopMIDI Port 4
+41: MMSystem, loopMIDI Port 5
+42: MMSystem, loopMIDI Port 6
+43: MMSystem, loopMIDI Port 7
+44: MMSystem, loopMIDI Port 8
+45: MMSystem, loopMIDI Port 9
+46: MMSystem, loopMIDI Port
+47: MMSystem, loopMIDI Port 10
+48: MMSystem, loopMIDI Port 11
+49: MMSystem, loopMIDI Port 12
+50: MMSystem, loopMIDI Port 13
+51: MMSystem, loopMIDI Port 14
+52: MMSystem, loopMIDI Port 15
+53: MMSystem, loopMIDI Port 16
+loopMIDI Port 1 maps to 37
+device 37 selected

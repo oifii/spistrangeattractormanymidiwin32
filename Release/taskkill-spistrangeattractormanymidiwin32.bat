@@ -1,0 +1,1 @@
+taskkill /im spistrangeattractormanymidiwin32.exe
